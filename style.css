@@ -33,6 +33,13 @@ button {
   margin: 15px auto;
 }
 
+.output {
+  border: 2px solid black;
+  height: 30vh;
+  width: 40vw;
+  margin: 0 auto;
+}
+
 #bio {
   max-width: 70%;
   margin: 15px auto;
